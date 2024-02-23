@@ -36,5 +36,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Internationalization
-use useTranslation() for Client Components
-use serverSideTranslation() for Server Components
+
+<p>use useTranslation() for Client Components</p>
+<p>use serverSideTranslation() for Server Components</p>
